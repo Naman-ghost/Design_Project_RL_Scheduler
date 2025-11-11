@@ -2,12 +2,13 @@
 
 ## Steps to Run the Project
 
-Save the `run_all_tests.sh` file inside the same directory where `rl_sched_mod.ko` is present (`~/mywork` folder`).  
+Save the `run_all_tests.sh` file inside the same directory where `rl_sched_mod.ko` is present (`~/Design_Project_RL_Scheduler
+` folder`).  
 The script expects to find `rl_sched_mod.ko` in the current working directory.
 
 ### 1. Navigate to the work directory
 ```bash
-cd ~/mywork
+cd ~/Design_Project_RL_Scheduler
 make
 make latency_probe
 chmod +x throughput_worker.sh run_single_test.sh run_both.sh
@@ -117,4 +118,5 @@ The scheduler dynamically adjusts process priorities using **Q-learning**, enhan
 ### 2.KAVYANSH KHANDELWAL
 ### 3.VISVIJIT KUMAR SINGH
 ### 4.CHARITRA JAIN
+
 
