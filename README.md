@@ -97,7 +97,7 @@ The scheduler dynamically adjusts process priorities using **Q-learning**, enhan
   - *Episode 1:* Exploration phase.
   - *Episode 2:* Exploitation using learned Q-table.
 
-### Results Summary
+## Results Summary
 
 | Metric | Baseline | RL (EP2) | Improvement |
 |---------|-----------|-----------|--------------|
@@ -112,8 +112,9 @@ The scheduler dynamically adjusts process priorities using **Q-learning**, enhan
 📦 **GitHub Link:**  
 [https://github.com/Naman-ghost/Design_Project_RL_Scheduler](https://github.com/Naman-ghost/Design_Project_RL_Scheduler)
 
-### Authors:
-# 1.NAMAN SINGH
-# 2.KAVYANSH KHANDELWAL
-# 3.VISVIJIT KUMAR SINGH
-# 4.CHARITRA JAIN
+## Authors:
+### 1.NAMAN SINGH
+### 2.KAVYANSH KHANDELWAL
+### 3.VISVIJIT KUMAR SINGH
+### 4.CHARITRA JAIN
+
